@@ -18188,7 +18188,7 @@ footer.dark-optional .footer-bottom p {
 	content: "";
 	height: 50px;
 	width: 50px;
-	background: url(../img/logo-icon.png);
+	background: url(../img/Asset-8.svg);
 	transform: translateX(-50%);
 	background-repeat: no-repeat;
 	background-position: center;
@@ -18196,7 +18196,7 @@ footer.dark-optional .footer-bottom p {
 }
 
 .color-secondary .edufix-preloader .animation-preloader::after {
-	background: url(../img/logo-icon-2.png);
+	background: url(../img/Asset-8.svg);
 	transform: translateX(-50%);
 	background-repeat: no-repeat;
 	background-position: center;
@@ -18204,7 +18204,7 @@ footer.dark-optional .footer-bottom p {
 }
 
 .theme-style-three .edufix-preloader .animation-preloader::after {
-	background: url(../img/logo-icon-4.png);
+	background: url(../img/Asset-8.svg);
 	transform: translateX(-50%);
 	background-repeat: no-repeat;
 	background-position: center;
@@ -18212,7 +18212,7 @@ footer.dark-optional .footer-bottom p {
 }
 
 .theme-skyblue .edufix-preloader .animation-preloader::after {
-	background: url(../img/logo-icon-3.png);
+	background: url(../img/Asset-8.svg);
 	transform: translateX(-50%);
 	background-repeat: no-repeat;
 	background-position: center;
